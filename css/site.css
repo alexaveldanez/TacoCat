@@ -72,3 +72,8 @@ main>.container {
     bottom: 0;
     width: 100%;
 }
+
+.tacoCatLogo {
+    width: 500px;
+    margin-top: 200px;
+}
